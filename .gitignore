@@ -1,0 +1,7 @@
+*.cfg
+*pycache*
+
+Include/
+Lib/
+Scripts/
+share/
